@@ -5,6 +5,8 @@
 	donde toda la gente del pueblo asistía a comer y beber durante horas hasta que el
 	sol se pusiera por el este.
 
-	Un buen día el rey, como cada domingo, convocó un asado especial en honor al club
-	de balompie de ese país, ya que habían ganado la copa continental de balompie y
-	quería felicitarlos por su gran logro.
+	Un buen día el rey, como cada domingo, convocó un asado, pero esta vez era especial
+	ya que era en honor al club de balompie de ese país, puesto que habían ganado la co-
+	pa continental de balompie y quería felicitarlos por su gran logro.
+
+	
