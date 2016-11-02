@@ -2,5 +2,9 @@
 
 	Erase una vez un rey al cual le encantaba comer todos los días morcilla con patatas
 	fritas y chimichurri. Este rey cada domingo celebraba en su castillo un gran asado
-	donde toda la gente del pueblo asistia a comer y beber durante horas hasta que el
+	donde toda la gente del pueblo asistía a comer y beber durante horas hasta que el
 	sol se pusiera por el este.
+
+	Un buen día el rey, como cada domingo, convocó un asado especial en honor al club
+	de balompie de ese país, ya que habían ganado la copa continental de balompie y
+	quería felicitarlos por su gran logro.
