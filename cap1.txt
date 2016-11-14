@@ -6,5 +6,8 @@
 	sol se pusiera por el este.
 
 	Un buen día el rey, como cada domingo, convocó un asado especial en honor al club
-	de balompie de ese país, ya que habían ganado la copa continental de balompie y
+	de balompié de ese país, ya que habían ganado la copa continental de balompié y
 	quería felicitarlos por su gran logro.
+
+	Un día apareció Matías y Patryk, dos grandes hombres, con un gran futuro por delante. Se pararon 		ante el rey y le ofrecieron unirse al equipo granatizando innumerables victorias a cambio de oro, 	gemas y dos bellas mujeres.
+
