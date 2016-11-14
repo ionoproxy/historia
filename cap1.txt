@@ -5,9 +5,15 @@
 	donde toda la gente del pueblo asistía a comer y beber durante horas hasta que el
 	sol se pusiera por el este.
 
-	Un buen día el rey, como cada domingo, convocó un asado especial en honor al club
-	de balompié de ese país, ya que habían ganado la copa continental de balompié y
-	quería felicitarlos por su gran logro.
 
-	Un día apareció Matías y Patryk, dos grandes hombres, con un gran futuro por delante. Se pararon 		ante el rey y le ofrecieron unirse al equipo granatizando innumerables victorias a cambio de oro, 	gemas y dos bellas mujeres.
+	Un buen día el rey, como cada domingo, convocó un asado, pero esta vez era especial
+	ya que era en honor al club de balompie de ese país, puesto que habían ganado la co-
+	pa continental de balompie y quería felicitarlos por su gran logro.
+
+	Un día apareció Matías y Patryk, dos grandes hombres, con un gran futuro por delante. Se pararon 
+	ante el rey y le ofrecieron unirse al equipo granatizando innumerables victorias a cambio de oro, 
+	gemas y dos bellas mujeres.
+
+	Pero de repente, en un momento dado del día sucedió algo inesperado... Apareció el
+	equipo que todos más temían, al que nadie quería enfrentarse... Los del país 
 
